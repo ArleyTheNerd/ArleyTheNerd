@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ArleyTheNerd
-- 👀 I’m interested in Scripting and Game Development
-- 🌱 I’m currently learning Unity, Python and C#
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me: Discord: Arley#1649
+sup nerds
+im arley lol
+i make discord bots and stuff
+my discord if you want to contact me - Arley#5799
